@@ -50,7 +50,7 @@ body {
 }
 
 .signin-detail {
-    width: 90%;
+    width: 320px;
 }
 
 .signin-header {
@@ -187,6 +187,9 @@ form>input {
     }
     .signin-container {
         width: 100%;
+    }
+    .signin-detail {
+        width: 90%;
     }
     .signin-brand {
         display: none;
